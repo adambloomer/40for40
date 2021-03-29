@@ -1,6 +1,6 @@
 body { padding: 0; margin: 0; font-family: sans-serif; background: #1d1d1d; color: #f6f6f0; line-height: 1.5; }
 .wrapper {padding: 0 20px; max-width: 480px; margin: 0 auto; }
-header { display: block; background: url('./divider.png') bottom center no-repeat; padding: 10px 0px; margin: 0px 0px 20px; text-align: center; }
+header { display: block; background: url('./divider.png') bottom center no-repeat; padding: 10px 0px; margin: 25px 0px 20px; text-align: center; }
 h1 { display: inline; position: relative; font-family: 'Rubik', sans-serif; font-weight: normal; font-size: 42px; letter-spacing: 1px; }
 h1:before, h1:after { content: '♬ '; position: absolute; top: 16px; left: -3.1ex; color: #da1c5c; font-size: 0.4em; }
 h1:after {left:auto; right: -3.1ex;}
